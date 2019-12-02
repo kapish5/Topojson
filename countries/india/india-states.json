@@ -42889,6 +42889,28 @@
         {
           "arcs": [
             [
+              
+              -5,
+              -53,
+              -60,
+              63
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "ISO": "IND",
+            "NAME_0": "India",
+            "ID_1": 1301,
+            "NAME_1": "Jammu and Kashmir",
+            "VARNAME_1": "",
+            "HASC_1": "IN.JK",
+            "TYPE_1": "State",
+            "ENGTYPE_1": "State"
+          }
+        },
+        {
+          "arcs": [
+            [
               129,
               130,
               -72,
